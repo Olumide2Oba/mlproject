@@ -3,8 +3,8 @@ Name: mlproject
 Version: 0.0.1
 Author: Olumide
 Author-email: olumide2obanla@gmail.com
-Requires-Dist: pandas
 Requires-Dist: numpy
+Requires-Dist: pandas
 Requires-Dist: seaborn
 Dynamic: author
 Dynamic: author-email
